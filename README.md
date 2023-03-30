@@ -21,7 +21,7 @@ To run this repository, you need some python library installed on your computer.
         <ul>
             <li>virtualenv -p python3 auto4env</li>
             <li>source auto4env/bin/activate</li>
-            <li>pip install -r requirement</li>
+            <li>pip install -r requirements.txt</li>
         </ul>
      <li>Editing script ip_address.txt</li>
         <ul>
